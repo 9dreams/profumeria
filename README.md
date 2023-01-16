@@ -3,7 +3,7 @@ Megastore online di articoli sportivi
 
 HOME PAGE
 /index.html
-Teso e Ros
+Te
 
 SPORT DI SQUADRA
 /squadra
